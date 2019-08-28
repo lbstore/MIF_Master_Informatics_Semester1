@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox alignment="CENTER" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lt.lb.objectdbjavafx.LauncherController">
+   <children>
+      <Label alignment="CENTER" text="SETUP" textAlignment="CENTER">
+         <font>
+            <Font size="22.0" />
+         </font>
+         <opaqueInsets>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </opaqueInsets>
+         <VBox.margin>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </VBox.margin>
+      </Label>
+      <ToolBar prefHeight="81.0" prefWidth="318.0">
+         <items>
+            <Button mnemonicParsing="false" onAction="#bootstrap" text="Bootstrap DB" />
+            <Button mnemonicParsing="false" onAction="#tests" text="Launch Tests" />
+            <Button mnemonicParsing="false" onAction="#begin" text="Launch FS explorer" />
+         </items>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </ToolBar>
+   </children>
+</VBox>

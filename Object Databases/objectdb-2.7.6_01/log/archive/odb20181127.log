@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-27 17:51:02 #1 store] 
+Database 'E:\Dev\Java\Workspace\db\database.odb' has been recovered (tr. 1-13)
+
+[2018-11-27 17:51:02 #2 store] 
+Database 'E:\Dev\Java\Workspace\db\database.odb' is opened by 8668@DESKTOP-MCTR7T2
+
+[2018-11-27 17:51:02 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-27 18:08:26 #4 store] 
+Database 'E:\Dev\Java\Workspace\db\database.odb' is closed by 8668@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-27 18:39:50 #1 store] 
+Database 'E:\Dev\Java\Workspace\db\database.odb' has been recovered (tr. 1-18)
+
+[2018-11-27 18:39:51 #2 store] 
+Database 'E:\Dev\Java\Workspace\db\database.odb' is opened by 6208@DESKTOP-MCTR7T2
+
+[2018-11-27 18:39:51 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-27 18:40:29 #4 type.registry] 
+New type java.lang.Object[]
+
+[2018-11-27 18:41:16 #5 store] 
+Database 'E:\Dev\Java\Workspace\db\database.odb' is closed by 6208@DESKTOP-MCTR7T2
+

@@ -1,0 +1,192 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 20:46:02 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' has been recovered (tr. 1-5)
+
+[2018-11-26 20:46:02 #2 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 2824@DESKTOP-MCTR7T2
+
+[2018-11-26 20:46:02 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 20:47:41 #4 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 2824@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 20:47:56 #1 explorer] 
+[ObjectDB 2.7.6_01] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:930)
+	at com.objectdb.o.LFL.x(LFL.java:887)
+	at com.objectdb.o.LFL.x(LFL.java:797)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ao(MST.java:109)
+	at com.objectdb.o.MSF.Zw(MSF.java:190)
+	at com.objectdb.o.OMF.r(OMF.java:783)
+	at com.objectdb.jpa.EMF.r(EMF.java:130)
+	at com.objectdb.o.OMF.w(OMF.java:694)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 20:48:00 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' has been recovered (tr. 1-5)
+
+[2018-11-26 20:48:00 #2 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 15396@DESKTOP-MCTR7T2
+
+[2018-11-26 20:48:00 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 20:53:21 #4 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 15396@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 20:54:02 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' has been recovered (tr. 1-5)
+
+[2018-11-26 20:54:02 #2 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 6824@DESKTOP-MCTR7T2
+
+[2018-11-26 20:54:02 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 20:58:25 #4 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 6824@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 20:59:03 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' has been recovered (tr. 1-5)
+
+[2018-11-26 20:59:03 #2 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 12108@DESKTOP-MCTR7T2
+
+[2018-11-26 20:59:03 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 21:01:50 #4 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 12108@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 21:07:36 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' has been recovered (tr. 1-10)
+
+[2018-11-26 21:07:36 #2 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 5692@DESKTOP-MCTR7T2
+
+[2018-11-26 21:07:36 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 21:07:50 #4 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 5692@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 21:09:01 #1 explorer] 
+[ObjectDB 2.7.6_01] javax.persistence.PersistenceException
+Attempt to open a database file 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:930)
+	at com.objectdb.o.LFL.x(LFL.java:887)
+	at com.objectdb.o.LFL.x(LFL.java:797)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ao(MST.java:109)
+	at com.objectdb.o.MSF.Zw(MSF.java:190)
+	at com.objectdb.o.OMF.r(OMF.java:783)
+	at com.objectdb.jpa.EMF.r(EMF.java:130)
+	at com.objectdb.o.OMF.w(OMF.java:694)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 17 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 21:09:07 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' has been recovered (tr. 1-10)
+
+[2018-11-26 21:09:07 #2 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 10484@DESKTOP-MCTR7T2
+
+[2018-11-26 21:09:07 #3 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 21:10:22 #4 type.registry] 
+New type java.lang.Object[]
+
+[2018-11-26 21:10:51 #5 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 10484@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 22:20:46 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 9984@DESKTOP-MCTR7T2
+
+[2018-11-26 22:20:46 #2 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 22:43:52 #3 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 9984@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 23:19:13 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 10912@DESKTOP-MCTR7T2
+
+[2018-11-26 23:19:13 #2 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-26 23:20:24 #3 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 10912@DESKTOP-MCTR7T2
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-11-26 23:53:33 #1 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is opened by 12444@DESKTOP-MCTR7T2
+
+[2018-11-26 23:53:33 #2 store] 
+Configuration path: E:\University\MIF_Master_Informatics_Semester1\Object Databases\objectdb-2.7.6_01\objectdb.conf
+
+[2018-11-27 00:01:25 #3 store] 
+Database 'E:\Dev\Java\Workspace\objectDBjavaFX\db\database.odb' is closed by 12444@DESKTOP-MCTR7T2
+

@@ -1,0 +1,32 @@
+@relation people-voting
+
+@attribute  willVote    {y,n}
+@attribute  lytis       {v,m}
+@attribute  z           {j,v,s}
+@attribute  f           {v,s,i}
+@attribute inc          NUMERIC
+
+
+
+@data
+
+y,v,s,v,1000
+y,m,s,i,2000
+n,v,j,s,1500
+n,v,j,v,2000
+y,m,j,s,1660
+y,v,j,i,2000
+n,m,v,i,1000
+y,v,v,s,900
+y,m,j,v,850
+n,m,s,i,3000
+n,m,v,i,2500
+n,v,v,s,2000
+y,m,v,v,1500
+y,v,s,i,1200
+y,v,s,s,1000
+y,m,j,v,750
+y,m,v,s,850
+y,v,s,i,950
+n,m,s,v,1200
+n,v,j,i,1500
