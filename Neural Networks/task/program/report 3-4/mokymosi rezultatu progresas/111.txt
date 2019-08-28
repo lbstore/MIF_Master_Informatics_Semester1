@@ -1,0 +1,235 @@
+1.
+ # of classes:    111
+ Accuracy:        0.2945
+ Precision:       0.3193
+ Recall:          0.2944
+ F1 Score:        0.2851
+
+2.
+ # of classes:    111
+ Accuracy:        0.4645
+ Precision:       0.4892
+ Recall:          0.4645
+ F1 Score:        0.4601
+
+3.
+# of classes:    111
+ Accuracy:        0.5283
+ Precision:       0.5554
+ Recall:          0.5282
+ F1 Score:        0.5253
+
+4.
+ # of classes:    111
+ Accuracy:        0.5606
+ Precision:       0.5944
+ Recall:          0.5606
+ F1 Score:        0.5617
+
+5.
+ # of classes:    111
+ Accuracy:        0.5811
+ Precision:       0.6056
+ Recall:          0.5811
+ F1 Score:        0.5796
+
+6.
+ # of classes:    111
+ Accuracy:        0.5989
+ Precision:       0.6167
+ Recall:          0.5990
+ F1 Score:        0.5976
+
+7.
+ # of classes:    111
+ Accuracy:        0.6096
+ Precision:       0.6271
+ Recall:          0.6096
+ F1 Score:        0.6088
+
+8.
+ # of classes:    111
+ Accuracy:        0.6175
+ Precision:       0.6417
+ Recall:          0.6175
+ F1 Score:        0.6177
+
+9.
+ # of classes:    111
+ Accuracy:        0.6258
+ Precision:       0.6448
+ Recall:          0.6257
+ F1 Score:        0.6264
+
+10.
+ # of classes:    111
+ Accuracy:        0.6298
+ Precision:       0.6509
+ Recall:          0.6298
+ F1 Score:        0.6317
+
+11.
+ # of classes:    111
+ Accuracy:        0.6329
+ Precision:       0.6545
+ Recall:          0.6329
+ F1 Score:        0.6336
+
+12.
+ # of classes:    111
+ Accuracy:        0.6375
+ Precision:       0.6625
+ Recall:          0.6375
+ F1 Score:        0.6407
+
+13.
+ # of classes:    111
+ Accuracy:        0.6405
+ Precision:       0.6573
+ Recall:          0.6405
+ F1 Score:        0.6400
+
+14.
+ # of classes:    111
+ Accuracy:        0.6404
+ Precision:       0.6635
+ Recall:          0.6404
+ F1 Score:        0.6414
+
+15.
+ # of classes:    111
+ Accuracy:        0.6476
+ Precision:       0.6642
+ Recall:          0.6476
+ F1 Score:        0.6482
+
+16.
+ # of classes:    111
+ Accuracy:        0.6460
+ Precision:       0.6630
+ Recall:          0.6460
+ F1 Score:        0.6450
+
+17.
+ # of classes:    111
+ Accuracy:        0.6498
+ Precision:       0.6668
+ Recall:          0.6498
+ F1 Score:        0.6511
+
+18.
+ # of classes:    111
+ Accuracy:        0.6547
+ Precision:       0.6702
+ Recall:          0.6547
+ F1 Score:        0.6549
+
+19.
+# of classes:    111
+ Accuracy:        0.6491
+ Precision:       0.6710
+ Recall:          0.6490
+ F1 Score:        0.6492
+
+20.
+ # of classes:    111
+ Accuracy:        0.6575
+ Precision:       0.6730
+ Recall:          0.6575
+ F1 Score:        0.6591
+
+21.
+# of classes:    111
+ Accuracy:        0.6555
+ Precision:       0.6731
+ Recall:          0.6555
+ F1 Score:        0.6557
+
+22.
+ # of classes:    111
+ Accuracy:        0.6566
+ Precision:       0.6753
+ Recall:          0.6566
+ F1 Score:        0.6577
+
+23.
+
+ # of classes:    111
+ Accuracy:        0.6546
+ Precision:       0.6755
+ Recall:          0.6547
+ F1 Score:        0.6556
+
+24.
+
+ # of classes:    111
+ Accuracy:        0.6568
+ Precision:       0.6763
+ Recall:          0.6568
+ F1 Score:        0.6574
+
+25.
+ # of classes:    111
+ Accuracy:        0.6565
+ Precision:       0.6747
+ Recall:          0.6565
+ F1 Score:        0.6570
+
+26.
+ # of classes:    111
+ Accuracy:        0.6573
+ Precision:       0.6767
+ Recall:          0.6573
+ F1 Score:        0.6589
+
+27.
+ # of classes:    111
+ Accuracy:        0.6580
+ Precision:       0.6776
+ Recall:          0.6580
+ F1 Score:        0.6593
+
+28.
+ # of classes:    111
+ Accuracy:        0.6578
+ Precision:       0.6761
+ Recall:          0.6578
+ F1 Score:        0.6595
+
+29.
+ # of classes:    111
+ Accuracy:        0.6603
+ Precision:       0.6816
+ Recall:          0.6603
+ F1 Score:        0.6637
+
+30.
+ # of classes:    111
+ Accuracy:        0.6632
+ Precision:       0.6794
+ Recall:          0.6632
+ F1 Score:        0.6642
+
+31.
+ # of classes:    111
+ Accuracy:        0.6575
+ Precision:       0.6771
+ Recall:          0.6575
+ F1 Score:        0.6580
+
+32.
+ # of classes:    111
+ Accuracy:        0.6624
+ Precision:       0.6816
+ Recall:          0.6624
+ F1 Score:        0.6631
+
+33.
+ # of classes:    111
+ Accuracy:        0.6634
+ Precision:       0.6797
+ Recall:          0.6634
+ F1 Score:        0.6642
+
+
+
